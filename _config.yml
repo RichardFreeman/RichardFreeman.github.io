@@ -1,0 +1,9 @@
+permalink: /posts/:title
+markdown: kramdown
+
+gems:
+  - jekyll-sitemap
+
+name: Richard Huang
+url: http://richardfreeman.github.io/
+description: A simple blog
